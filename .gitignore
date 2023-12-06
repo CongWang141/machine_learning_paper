@@ -1,0 +1,10 @@
+data/raw_data/
+data/dataset.pkl
+data/variables.xlsx
+graphics/
+latex/
+myenv/
+presentation/
+main_result.ipynb
+neural_network_tuning.ipynb
+.vscode/
